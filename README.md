@@ -24,3 +24,5 @@ to start the sever, switch to the `minecraft-server`) directory (i.e `cd ~/minec
 
 
 to stop it, type `stop`
+
+Notice: by using this software you agree to the Minecraft server EULA
