@@ -8,3 +8,4 @@ rm eula.txt
 cat > eula.txt << EOF
 eula=true
 EOF
+echo done! run java -jar server.jar in the new minecraft-server directory to start it
