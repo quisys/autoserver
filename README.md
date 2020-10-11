@@ -20,6 +20,6 @@ chmod +x autoserver.sh
 
 # usage
 
-to start the sever, run `java -jar server.jar`
+to start the sever, run `java -jar server.jar --nogui`
 
 to stop it, type `stop`
