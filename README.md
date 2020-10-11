@@ -20,7 +20,7 @@ chmod +x autoserver.sh
 
 # usage
 
-to start the sever, switch to the `minecraft-server` directory (i.e `cd ~/minecraft-server` and run `java -jar server.jar --nogui`
+to start the sever, switch to the `minecraft-server`) directory (i.e `cd ~/minecraft-server` and run `java -jar server.jar --nogui`
 
 
 to stop it, type `stop`
