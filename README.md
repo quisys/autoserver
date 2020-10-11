@@ -3,7 +3,9 @@ Automagically sets up optimized Minecraft server
 
 # dependencies
 wget
+
 bash
+
 java
 
 # installation
@@ -19,4 +21,5 @@ chmod +x autoserver.sh
 # usage
 
 to start the sever, run `java -jar server.jar`
+
 to stop it, type `stop`
