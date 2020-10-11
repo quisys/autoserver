@@ -5,6 +5,6 @@ mv download minecraft-server/server.jar
 cd minecraft-server
 java -jar server.jar
 rm eula.txt
-cat > minecraft-server/eula.txt << EOF
+cat > eula.txt << EOF
 eula=true
 EOF
