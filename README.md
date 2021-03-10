@@ -22,6 +22,7 @@ to start the sever, switch to the `minecraft-server` directory (i.e `cd ~/minecr
 
 to stop it, type `stop`
 
+# please note
 Notice: by using this software you agree to the Minecraft server EULA
 
 Notice 2: This doesn't automatically forward your ports. If your friends can't join, the problem is 99.9% that you aren't forwarding the host port (usually 25565).  Google is your friend here.
