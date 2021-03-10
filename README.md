@@ -16,6 +16,12 @@ cd autoserver
 ./autoserver.sh
 ```
 
+## \*nix (normie mode)
+
+1. Click "Download Zip"
+2. Unzip the file into an empty folder
+3. Go into the folder, and double click on "autoserver.sh"
+
 # usage
 to start the sever, switch to the `minecraft-server` directory (i.e `cd ~/minecraft-server`) and run `java -jar server.jar --nogui`
 
