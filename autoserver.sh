@@ -1,11 +1,7 @@
 #!/bin/bash
 mkdir ../minecraft-server
-wget https://papermc.io/api/v1/paper/1.16.3/223/download
-mv download ../minecraft-server/server.jar
 cd ../minecraft-server
-java -jar server.jar
-rm eula.txt
-cat > eula.txt << EOF
-eula=true
-EOF
-echo done! run java -jar server.jar in the new minecraft-server directory to start it
+wget https://launcher.mojang.com/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar
+java -jar --nogui server.jar
+echo "eula=true" > eula.txt
+echo "done! run java -jar server.jar in the new minecraft-server directory to start it :)"
