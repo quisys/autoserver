@@ -13,7 +13,6 @@ Automagically sets up optimized Minecraft server
 ```
 git clone https://github.com/quisys/autoserver
 cd autoserver
-chmod +x autoserver.sh
 ./autoserver.sh
 ```
 
